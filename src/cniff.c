@@ -1,12 +1,10 @@
 /////////////////////////////////////////////////////////
-//						       //
-//						       //
-//						       //
-//						       //
-//						       //
-//						       //
-//						       //
-//						       //
+//Joshua Thomas				     	       //
+//02/2009 - BSD license			       	       //
+//Cniff - The C packet sniffer		               //
+//Written for linux/unix			       //
+//Use the install.sh file to compile and install       //
+//Not the best thing ever but a good learning exersize //
 /////////////////////////////////////////////////////////
 
 #include "includes.h"
